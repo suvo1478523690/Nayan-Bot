@@ -9,11 +9,11 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "shanta",
-  "PREFIX": ".",
+  "BOTNAME": "nayan-bot",
+  "PREFIX": "/",
   "OPERATOR": [
-    "100000959749712",
-    "61565499472205"
+    "100014896964436",
+    "100000959749712"
   ],
   "ADMINBOT": [
     "100000959749712",
